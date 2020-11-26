@@ -1,0 +1,12 @@
+export const HOME_PAGE = "/";
+export const RECIPE_SEARCH = "/recipe-search";
+export const ADD_RECIPE = "/add-recipe";
+export const EDIT_RECIPE = "/edit-recipe/:id";
+export const MY_RECIPES = "/my-recipes";
+export const LOGIN = "/login";
+export const SIGNUP = "/signup";
+export const RECIPE_PAGE = "/recipe/:id";
+export const ADD_INGREDIENT = "/add-ingredient";
+export const REQUESTS = "/requests";
+export const REQUEST_RECIPE = "/request-recipe/:id";
+export const UNAUTH_USER = "/unauth-user";
